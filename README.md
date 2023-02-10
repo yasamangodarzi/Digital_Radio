@@ -10,8 +10,12 @@ in each line.<br />
  <br />
 At first, the program reads the input file and waits for a number that is the frequency of the radio network intended by the user, and then passes the input signal through a low-pass filter with the pass frequency entered by the user, then transfers the signal to the hearing range. It brings the human ear and finally
 plays the formed sound and waits for the arrival of a new number of users<br />
-| First Header  | Second Header |
+ <br />
+The table below shows some frequencies and radio networks<br />
+| Radio network  | frequency (KHz) |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ava  | 96  |
+| enghtesad  | 144  |
+| goftogu  | 288  |
+| farhang  | 240  |
 
